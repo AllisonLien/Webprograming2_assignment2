@@ -1,9 +1,9 @@
-/* ITE5425 — Mastery Assignment 2: My Art Explorer 
-* I declare that this work is my own and conforms to Humber Academic Policy. 
-* I have not copied or distributed another student’s implementation. 
-* I have disclosed all generative-AI assistance in ai-use.md. 
-* * Name: __yichunlien___ Student ID: _n01745009_______ Date: __1113________
-*/
+/* ITE5425 — Mastery Assignment 2: My Art Explorer
+ * I declare that this work is my own and conforms to Humber Academic Policy.
+ * I have not copied or distributed another student's implementation.
+ * I have disclosed all generative-AI assistance in ai-use.md.
+ * Name: Yi-Chun Lien  Student ID: N01745009  Date: 2026-11-19
+ */
 
 import Link from 'next/link';
 import {studentConfig} from '@/student-config';
